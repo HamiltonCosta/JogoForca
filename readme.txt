@@ -29,3 +29,5 @@ Baixe o repositório e inicie o arquivo main.py.
 Dentro do jogo, clique em "Iniciar Jogo".
 Digite uma letra e clique em "Tentar Letra".
 Continue tentando letras até completar a palavra ou ser enforcado.
+
+Você pode visualizar um print do jogo na aba "wiki".
